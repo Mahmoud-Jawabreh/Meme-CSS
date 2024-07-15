@@ -9,10 +9,10 @@
 
 .imge{
     border: 5px solid green;
-    margin-left: 70px;
     margin-right: 125px;
     width: 400px;
     height: 400px;
+    width: 100%;
 }
 *{
     background-color: black;
@@ -20,4 +20,8 @@
 .txt{
     color: white;
     text-align: center;
+}
+.dimg{
+    width: 50%;
+    margin-left: 25%;
 }
